@@ -148,7 +148,9 @@ state = [
     'Language':'Hindi'
   },
   {
-    'Name'
+    'Name':'West Bengal',
+    'Capital':'Kolkata',
+    'Language':'Bengali'
   }
 
   

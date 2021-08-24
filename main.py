@@ -109,7 +109,7 @@ state = [
   {
     'Name':'Punjab',
     'Capital':'Chandigarh',
-    'Language':''
+    'Language':'Punjabi'
 
   }
 

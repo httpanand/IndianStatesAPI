@@ -125,7 +125,7 @@ state = [
   {
     'Name':'Tamil Nadu',
     'Capital':'Chennai',
-    'Language':'Tamil',
+    'Language':'Tamil'
   },
   {
     'Name':'Telangana',
@@ -139,7 +139,8 @@ state = [
   },
   {
     'Name':'Uttar Pradesh',
-    'Capital':'Lucknow'
+    'Capital':'Lucknow',
+    'Language':'Hindi'
   }
 
   

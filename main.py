@@ -141,6 +141,14 @@ state = [
     'Name':'Uttar Pradesh',
     'Capital':'Lucknow',
     'Language':'Hindi'
+  },
+  {
+    'Name':'Uttarakhand',
+    'Capital':'Dehradun,Gairsain',
+    'Language':'Hindi'
+  },
+  {
+    'Name'
   }
 
   

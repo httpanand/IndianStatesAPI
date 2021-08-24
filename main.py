@@ -130,7 +130,10 @@ state = [
   {
     'Name':'Telangana',
     'Capital':'Hyderabad',
-    'Language'
+    'Language':'Urdu,Telugu'
+  },
+  {
+    N
   }
 
   

@@ -116,6 +116,14 @@ state = [
     'Name':'Rajasthan',
     'Capital':'Jaipur',
     'Language':'Hindi'
+  },
+  {
+    'Name':'Sikkim',
+    'Capital':'Gangtok',
+    'Language':'Nepali'
+  },
+  {
+  
   }
 
   

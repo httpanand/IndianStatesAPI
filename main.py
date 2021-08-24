@@ -111,6 +111,11 @@ state = [
     'Capital':'Chandigarh',
     'Language':'Punjabi'
 
+  },
+  {
+    'Name':'Rajasthan',
+    'Capital':'Jaipur',
+    'Language':'Hindi'
   }
 
   

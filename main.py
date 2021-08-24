@@ -123,7 +123,14 @@ state = [
     'Language':'Nepali'
   },
   {
-  
+    'Name':'Tamil Nadu',
+    'Capital':'Chennai',
+    'Language':'Tamil',
+  },
+  {
+    'Name':'Telangana',
+    'Capital':'Hyderabad',
+    'Language'
   }
 
   

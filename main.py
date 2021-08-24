@@ -133,7 +133,13 @@ state = [
     'Language':'Urdu,Telugu'
   },
   {
-    N
+    'Name':'Tripura',
+    'Capital':'Agartala',
+    'Language':'Kokborok'
+  },
+  {
+    'Name':'Uttar Pradesh',
+    'Capital':'Lucknow'
   }
 
   

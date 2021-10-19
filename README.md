@@ -3,7 +3,7 @@
 <!--HEADING ICON-->
 <p align="center"><a><img src="http://ForTheBadge.com/images/badges/made-with-python.svg" alt="forthebadge made-with-python"></a>
 <a href="https://GitHub.com/Naereen/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love"></a></p>
-<p href="replit.com" ><img src="https://img.shields.io/badge/RUNNING%20ON-REPLIT-lightgrey"  alt="repl"> <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/httpanand/IndianStatesAPI" alt="Hits"></p>
+<p href="replit.com" ><img src="https://img.shields.io/badge/RUNNING%20ON-REPLIT-lightgrey"  alt="repl">
 
 <h3> ABOUT  </h3>
 <h><b>Indian States API </b> is a very simple API which returns details about states of India . It returns datas like state name , its capital , language..

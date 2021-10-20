@@ -12,7 +12,7 @@
 <h>Python Flask Framework is used to develop this API .
 
 <h3> USAGE </h3>
-  <h>I haven't hosted this <b>API</b> anywhere , i have ran it from replit so that you can use it. http://indianstatesapi.tk/ </h>
+  <h>https://IndStatesAPI.anandpy2156.repl.co</h>
 <h3> CONTRIBUTION </h3>
   <h>Adding new details about <b>states</b> will be accepted as contribution . Do not submit fake/old data.  </h>
     

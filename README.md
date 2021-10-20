@@ -12,7 +12,8 @@
 <h>Python Flask Framework is used to develop this API .
 
 <h3> USAGE </h3>
-  <h>https://IndStatesAPI.anandpy2156.repl.co</h>
+  <pre><code><span class="hljs-symbol">https:</span><span class="hljs-comment">//IndStatesAPI.anandpy2156.repl.co</span>
+</code></pre>
 <h3> CONTRIBUTION </h3>
   <h>Adding new details about <b>states</b> will be accepted as contribution . Do not submit fake/old data.  </h>
     

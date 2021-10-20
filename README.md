@@ -14,6 +14,8 @@
 <h3> USAGE </h3>
   <pre><code><span class="hljs-symbol">https:</span><span class="hljs-comment">//IndStatesAPI.anandpy2156.repl.co</span>
 </code></pre>
+  <pre><code><span class="hljs-symbol">https:</span><span class="hljs-comment">//IndStatesAPI.anandpy2156.repl.co/api</span>
+</code></pre>
 <h3> CONTRIBUTION </h3>
   <h>Adding new details about <b>states</b> will be accepted as contribution . Do not submit fake/old data.  </h>
     
